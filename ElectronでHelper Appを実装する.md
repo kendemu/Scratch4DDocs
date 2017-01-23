@@ -1,4 +1,4 @@
-#ElectronでHelper Appを実装する  
+#Electron開発  
 今回はElectronでHelper Appを実装します。  
 
 ## Electronとは  
@@ -82,9 +82,10 @@ res.writeHead(200, {'Content-Type': 'text/plain'});
 console.log('Server running at http://127.0.0.1:8080/');
 ```
 
-## ElectronでUIをプログラミングする  
+## Electron UI開発  
 HTML5でプログラミングします。  
 Electronは同じコードで複数のプラットフォーム用にデスクトップアプリを配布できます。  
+WEB UIの知識が必要です。  
 
 ### コンピューターのUIの種類
 
