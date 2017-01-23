@@ -1,0 +1,7 @@
+digraph G{
+
+        "ページのHTMLの読み込み・レンダリング" -> "ページを表示"
+	"ページを表示" -> "http://localhost:3001/takeoffのGETリクエストを送信"[label="緑ボタンクリック"] -> "HTTPリクエスト受信"
+	"ページを表示" -> "http://localhost:3001/landのGETリクエストを送信"[label="黄ボタンクリック"] -> "HTTPリクエスト受信"
+	"ページを表示" -> "http://localhost:3001/stopのGETリクエストを送信"[label="赤ボタンクリック"] -> "HTTPリクエスト受信"
+	        }

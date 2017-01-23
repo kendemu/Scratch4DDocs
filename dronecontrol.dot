@@ -1,0 +1,6 @@
+digraph G{
+	rankdir=LR
+	drone[image="drone.png"]
+	"HTTP Request"-> "ar-drone module API" -> "PCMD Packet"
+	"PCMD Packet" -> drone[label="TCP/UDP"]
+}
