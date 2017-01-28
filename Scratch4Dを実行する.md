@@ -15,12 +15,13 @@ https://github.com/kendemu/Scratch4D/raw/master/project.sb2
 https://drive.google.com/drive/folders/0B2_JSWcsz20jTFpBbmQ4RDR4WEE?usp=sharing  
 
 2. Scratch4Dを解凍して、フォルダ内のdist/electron.appをダブルクリックして実行してください。  
+![Scratch4D](scratch4d-mac.png)  
 
 3. Scratch Editorで.sb2プロジェクトファイルをHTTP Extensionsからロードしてください。  
 Scratchのドローンブロックが使用できるようになります。  
 Scratch Editorのランプが緑色になっていたらドローンへの接続に成功しています。  
 https://github.com/kendemu/Scratch4D/raw/master/project.sb2  
-
+![Scratch Editor](scratch4d-mac2.png)  
 
 
 ##Linux  
